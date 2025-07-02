@@ -1,3 +1,5 @@
+package silver;
+
 import java.io.*;
 
 public class Silver4659 {
